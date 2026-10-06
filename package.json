@@ -24,8 +24,5 @@
     "discord.js": "^14.27.0",
     "dotenv": "^17.4.2",
     "stockfish": "^18.0.8"
-  },
-  "engines": {
-    "node": ">=22"
   }
 }
